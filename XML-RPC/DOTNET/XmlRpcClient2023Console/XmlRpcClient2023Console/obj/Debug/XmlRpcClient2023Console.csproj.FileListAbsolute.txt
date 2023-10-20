@@ -1,0 +1,8 @@
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\bin\Debug\XmlRpcClient2023Console.exe.config
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\bin\Debug\XmlRpcClient2023Console.exe
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\bin\Debug\XmlRpcClient2023Console.pdb
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\obj\Debug\XmlRpcClient2023Console.csproj.AssemblyReference.cache
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\obj\Debug\XmlRpcClient2023Console.csproj.CoreCompileInputs.cache
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\obj\Debug\XmlRpcClient2023Console.csproj.CopyComplete
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\obj\Debug\XmlRpcClient2023Console.exe
+C:\Users\nesterenko_sy\source\repos\XmlRpcClient2023Console\XmlRpcClient2023Console\obj\Debug\XmlRpcClient2023Console.pdb
