@@ -1,0 +1,10 @@
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\bin\Debug\HelloSoapClient.exe.config
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\bin\Debug\HelloSoapClient.exe
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\bin\Debug\HelloSoapClient.pdb
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.csproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.Form1.resources
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.Properties.Resources.resources
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.csproj.GenerateResource.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.csproj.CoreCompileInputs.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.exe
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\HelloSoapClient\HelloSoapClient\obj\Debug\HelloSoapClient.pdb

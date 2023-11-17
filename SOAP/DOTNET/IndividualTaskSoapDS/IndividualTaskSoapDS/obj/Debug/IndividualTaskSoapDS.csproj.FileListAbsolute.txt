@@ -1,0 +1,10 @@
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\bin\Debug\IndividualTaskSoapDS.exe.config
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\bin\Debug\IndividualTaskSoapDS.exe
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\bin\Debug\IndividualTaskSoapDS.pdb
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.csproj.AssemblyReference.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.Form1.resources
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.Properties.Resources.resources
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.csproj.GenerateResource.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.csproj.CoreCompileInputs.cache
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.exe
+D:\G_GITHUBMIRROR\WebServices\SOAP\DOTNET\IndividualTaskSoapDS\IndividualTaskSoapDS\obj\Debug\IndividualTaskSoapDS.pdb
